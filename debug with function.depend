@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588135254 source:c:\users\kiran\desktop\eng1300 project assessment\debug with function\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
